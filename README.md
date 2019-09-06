@@ -1,17 +1,11 @@
-# Let's Write a Python Quote Bot!
+# Let's Write a Python Basics!
 
-This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
+This repository is used as a lab for competing "The Python Mega Course!".
 
-When complete, you'll be able to grab random quotes from the command line, like this:
+When complete, I'll be able to build 10 Real World Application:
 
-> **$** python get-quote.py
-> 
-> Keep it logically awesome
-> 
-> **$** python get-quote.py
-> 
-> Speak like a human
 
-## Start the Tutorial
+
+## I Started the Course :D
 
 You can find your next step in [this repo's issues](../../issues/)!
