@@ -8,3 +8,9 @@
 2021.01.13 18:49:38 WARN  Build server is not auto-connectable.
 2021.01.13 18:49:38 WARN  no build tool detected in workspace 'C:\WorkShop\99-WareHouse\GitHub_Kuhlin\python-the-basics'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2021.01.14 08:47:40 INFO  shutting down Metals
+2021.01.14 08:50:10 INFO  Started: Metals version 0.9.8 in workspace 'C:\WorkShop\99-WareHouse\GitHub_Kuhlin\python-the-basics' for client vscode.
+2021.01.14 08:50:16 INFO  time: initialize in 5.75s
+2021.01.14 08:50:18 WARN  Build server is not auto-connectable.
+2021.01.14 08:50:18 WARN  no build tool detected in workspace 'C:\WorkShop\99-WareHouse\GitHub_Kuhlin\python-the-basics'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+ene. 14, 2021 8:58:15 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
