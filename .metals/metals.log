@@ -14,3 +14,4 @@
 2021.01.14 08:50:18 WARN  no build tool detected in workspace 'C:\WorkShop\99-WareHouse\GitHub_Kuhlin\python-the-basics'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 ene. 14, 2021 8:58:15 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+2021.01.15 11:16:03 INFO  shutting down Metals
